@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date.iml" filepath="$PROJECT_DIR$/Date/Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java35/Java35.iml" filepath="$PROJECT_DIR$/Java35/Java35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java39/Java39.iml" filepath="$PROJECT_DIR$/Java39/Java39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java40/Java40.iml" filepath="$PROJECT_DIR$/Java40/Java40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java43/Java43.iml" filepath="$PROJECT_DIR$/Java43/Java43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java45/Java45.iml" filepath="$PROJECT_DIR$/Java45/Java45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java46/Java46.iml" filepath="$PROJECT_DIR$/Java46/Java46.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java48/Java48.iml" filepath="$PROJECT_DIR$/Java48/Java48.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java49/Java49.iml" filepath="$PROJECT_DIR$/Java49/Java49.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java54/Java54.iml" filepath="$PROJECT_DIR$/Java54/Java54.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java57/Java57.iml" filepath="$PROJECT_DIR$/Java57/Java57.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java58/Java58.iml" filepath="$PROJECT_DIR$/Java58/Java58.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java61/Java61.iml" filepath="$PROJECT_DIR$/Java61/Java61.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java67/Java67.iml" filepath="$PROJECT_DIR$/Java67/Java67.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java71/Java71.iml" filepath="$PROJECT_DIR$/Java71/Java71.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java72/Java72.iml" filepath="$PROJECT_DIR$/Java72/Java72.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+    </modules>
+  </component>
+</project>
