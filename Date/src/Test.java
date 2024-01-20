@@ -9,16 +9,22 @@ public class Test {
 //        System.out.println(currentDate);
 //        String dateToStr= DateFormat.getDateInstance().format(currentDate);
 //        System.out.println(dateToStr);
-        String dateStr="19/09/2023";
-        DateFormat df= new SimpleDateFormat("dd/MM/yyyy");
+        String dateStr="2023-11-09";
+        SimpleDateFormat df= new SimpleDateFormat("yyyy-MM-dd");
         Date date=df.parse(dateStr);
-        System.out.println(date);
+        String patern="dd-MM-yyyy";
+        String patern1="dd/MM/yyyy";
+        String patern2="yyyy/MM/dd";
+        String patern3="dd-MM-yyyy";
+
+        SimpleDateFormat df2= new SimpleDateFormat(patern2);
+        System.out.println(df2.format(date));
 
 
 //        Date date1=new Date();
-        DateFormat d2= new SimpleDateFormat("yyyy-MM-dd");
-        String dateString=d2.format(date);
-        System.out.println(dateString);
+//        DateFormat d2= new SimpleDateFormat("yyyy-MM-dd");
+//        String dateString=d2.format(date);
+//        System.out.println(dateString);
 
 
 

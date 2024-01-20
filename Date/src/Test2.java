@@ -24,7 +24,7 @@ public class Test2 {
 
         String f="2";
         String g="5";
-        System.out.println(Integer.f);
+       // System.out.println(Integer.f);
 
 
         String inputdateStr="17/09/2023";
